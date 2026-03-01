@@ -1,23 +1,21 @@
-<!-- TOP SOFT WAVE -->
+<!-- TOP -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,50:090A0F,100:1B2735&height=180&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-  Haemin Lee 🚀
-</h1>
+<h1 align="center">Haemin Lee 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=800&color=7FDBFF&center=true&vCenter=true&width=650&lines=Building+Scalable+ML+Pipelines;Designing+Systems+with+Depth;Retreat+Energy+Meets+Technology;🚀+Launching+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=900&color=4A4A4A&center=true&vCenter=true&width=600&lines=Building+Scalable+ML+Pipelines;Structure.+Clarity.+Motion.;Launching+Ideas+into+Reality+🚀" />
 </p>
 
 <p align="center">
-  Structure. Clarity. Motion.
+  Technology meets depth and retreat energy.
 </p>
 
-<!-- BOTTOM WAVE -->
+<!-- BOTTOM -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:1B2735,100:090A0F&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer"/>
 </p>
 # Hi, I'm Haemin 👋
 
