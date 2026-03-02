@@ -1,19 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F7FA,100:C3CFE2&height=180&section=header&text=Haemin%20Lee%20🚀&fontSize=55&fontColor=2E2E2E&animation=fadeIn" />
-</p>
+<h1 align="center">Joacore 🚀</h1>
 
 <p align="center">
-  <b>Building scalable ML pipelines</b><br/>
-  Structure · Clarity · Motion
+Building scalable ML pipelines<br/>
+Structure · Clarity · Motion
 </p>
-# Hi, I'm Haemin 👋
+
+---
 
 From curiosity to systems.
 
+## 🧠 Focus
+- Machine Learning Engineering
+- Production-ready ML systems
+- Clean pipeline architecture
+- Experiment → Structure → Deployment
+
 ## 📝 Blog
-👉 https://haemin.hashnode.dev
+- https://joacore.com
 
 ## 🚀 Currently
-- Learning ML & MLOps
-- Building in public
-- Writing about what I learn
+- Exploring the intersection of ideas and systems
+- Structuring experiments into reliable workflows
+- Writing as I build
